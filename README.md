@@ -15,5 +15,5 @@ dataDictionary -c root:1234567890@tcp(127.0.0.1:3306)/ha666db?charset=utf8
 ```
 linux/macos:
 ```shell
-./dataDictionary -c root:1234567890@tcp(127.0.0.1:3306)/ha666db?charset=utf8
+./dataDictionary -c root:1234567890@tcp\(127.0.0.1:3306\)/ha666db?charset=utf8
 ```
